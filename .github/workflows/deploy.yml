@@ -23,9 +23,7 @@ jobs:
 
       - name: Install MkDocs and dependencies
         run: |
-          pip install mkdocs mkdocs-material
-          # Add your plugins if any
-          # pip install mkdocs-awesome-pages-plugin mkdocs-minify-plugin
+          pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin
 
       - name: Build and deploy
         run: mkdocs gh-deploy --force
