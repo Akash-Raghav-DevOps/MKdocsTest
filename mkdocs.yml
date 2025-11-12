@@ -1,1 +1,49 @@
-site_name: My Docs
+site_name: NopAccelerate Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.instant
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - navigation.tracking
+    - navigation.path
+    - navigation.breadcrumbs
+plugins:
+  - search
+  - awesome-pages
+extra:
+  footer: © 2025 NopAccelerate • Built with ❤️ by NopAccelerate Team
+nav:
+  - Home: index.md
+  - Display Reward Plugin:
+      - Overview: displayReward/index.md
+      - Version History: 
+          - Overview: displayReward/History.md
+          - version1.0.0: displayReward/Version1.0.0.md
+      - Installation:
+          - Configuration: displayReward/child1.md
+  #         - Steps: displayReward/sub-child1.md
+  #     - Configuration: displayReward/child2.md
+  #     - Testing: displayReward/child3.md
+  # - PopUp Engage Plugin:
+  #     - Overview: section2/index.md
+  # - ZipCode Plugin:
+  #     - Overview: section3/index.md
