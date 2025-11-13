@@ -16,4 +16,4 @@ Hiiiiii
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
- ![Test](/docs/img/DisplayRewardpoint_configure.png)
+ ![Test](docs/img/DisplayRewardpoint_configure.png)
