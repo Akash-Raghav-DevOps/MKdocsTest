@@ -19,3 +19,4 @@
 4. Multi-store Supported.  
 
 ---
+[← Previous](History.md) | [Next →](1.0.1.md)
