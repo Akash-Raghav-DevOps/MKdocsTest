@@ -3,7 +3,7 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
-Hiiiiii
+
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
@@ -16,4 +16,3 @@ Hiiiiii
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
- ![Test](./img/DisplayRewardpoint_configure.png)

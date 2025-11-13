@@ -44,11 +44,8 @@ nav:
           - Version 1.3.0 : displayReward/1.3.0.md
       - Feature : displayReward/Feature.md
       - Installation:
-          - Configuration: displayReward/child1.md
-  #         - Steps: displayReward/sub-child1.md
-  #     - Configuration: displayReward/child2.md
-  #     - Testing: displayReward/child3.md
-  # - PopUp Engage Plugin:
-  #     - Overview: section2/index.md
-  # - ZipCode Plugin:
-  #     - Overview: section3/index.md
+          - Licenceing : displayReward/Licence.md
+          - Configuration: displayReward/Configuration.md
+          - Senerio of Use: displayReward/senerioOfUse.md
+          - Help : displayReward/Help.md
+

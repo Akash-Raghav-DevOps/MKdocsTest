@@ -21,4 +21,4 @@ This plug-in displays **reward points** on the product detail page that a custom
 ![Test](../img/DisplayRewardpoint_configure.png)
 
 
-[← Previous](Feature.md)
+[← Previous](Licence.md) | [Next →](senerioOfUse.md)

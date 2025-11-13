@@ -9,4 +9,4 @@
 
 **Supported Version(s):** 3.80, 3.90, 4.00, 4.10
 
-[← Previous](1.3.0.md) | [Next →](child1.md)
+[← Previous](1.3.0.md) | [Next →](Licence.md)
