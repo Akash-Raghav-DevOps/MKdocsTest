@@ -33,7 +33,7 @@ extra:
   footer: © 2025 NopAccelerate • Built with ❤️ by NopAccelerate Team
 nav:
   - Home: index.md
-  - Display Reward:
+  - Display Reward Plugin:
       - Overview: displayReward/index.md
       - Version History: 
           - Overview: displayReward/History.md
