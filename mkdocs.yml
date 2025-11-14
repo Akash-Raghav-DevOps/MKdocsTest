@@ -37,7 +37,7 @@ nav:
       - Overview: displayReward/index.md
       - Version History: 
           - Overview: displayReward/History.md
-          - version1.0.0: displayReward/Version1.0.0.md
+          - version 1.0.0: displayReward/Version1.0.0.md
           - Version 1.0.1 : displayReward/1.0.1.md
           - Version 1.1.0 : displayReward/1.1.0.md
           - Version 1.2.0 : displayReward/1.2.0.md
@@ -45,8 +45,8 @@ nav:
           - Version 49.0.0 : displayReward/49.0.0.md
       - Feature : displayReward/Feature.md
       - Installation:
-          - Licenceing : displayReward/Licence.md
+          - Licensing : displayReward/Licence.md
           - Configuration: displayReward/Configuration.md
-          - Senerio of Use: displayReward/senerioOfUse.md
+          - Scenerios of Use: displayReward/senerioOfUse.md
           - Help : displayReward/Help.md
 
