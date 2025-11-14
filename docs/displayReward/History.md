@@ -13,4 +13,6 @@ This page contains version history information about plug-in. You can directly g
 
 [Version 1.3.0](1.3.0.md)
 
+[Version 49.0.0](49.0.0.md)
+
 [← Previous](index.md) | [Next →](Version1.0.0.md)
