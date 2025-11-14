@@ -43,7 +43,7 @@ nav:
           - Version 1.2.0 : displayReward/1.2.0.md
           - Version 1.3.0 : displayReward/1.3.0.md
           - Version 49.0.0 : displayReward/49.0.0.md
-      - Feature : displayReward/Feature.md
+      - Features : displayReward/Feature.md
       - Installation:
           - Licensing : displayReward/Licence.md
           - Configuration: displayReward/Configuration.md
