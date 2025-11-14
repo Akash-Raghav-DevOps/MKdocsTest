@@ -11,7 +11,7 @@
 
 ---
 
-### **Features:**
+### **Features**
 
 1. Display reward point on product detail page.  
 2. Customizable CSS selector for the display reward point.  
