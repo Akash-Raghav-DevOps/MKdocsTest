@@ -1,4 +1,4 @@
-![Test](../img/bundle_discount_logo.png)
+![Test](./img/bundle_discount_logo.png)
 
 **Bundled Discounts Plug-in for nopCommerce** enables the store owner to boost sales by offering discounts when customers purchase additional products along with the one they originally intend to buy.
 
