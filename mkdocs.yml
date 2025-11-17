@@ -3,13 +3,13 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: black
+      primary: grey
       accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
+      primary: black
       accent: indigo
       toggle:
         icon: material/weather-sunny
