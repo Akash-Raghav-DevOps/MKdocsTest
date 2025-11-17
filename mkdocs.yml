@@ -38,17 +38,17 @@ nav:
       - Version History: 
           - Overview: displayReward/History.md
           - Version 1.0.0: displayReward/Version1.0.0.md
-          - Version 1.0.1 : displayReward/1.0.1.md
-          - Version 1.1.0 : displayReward/1.1.0.md
-          - Version 1.2.0 : displayReward/1.2.0.md
-          - Version 1.3.0 : displayReward/1.3.0.md
-          - Version 49.0.0 : displayReward/49.0.0.md
-      - Features : displayReward/Feature.md
+          - Version 1.0.1: displayReward/1.0.1.md
+          - Version 1.1.0: displayReward/1.1.0.md
+          - Version 1.2.0: displayReward/1.2.0.md
+          - Version 1.3.0: displayReward/1.3.0.md
+          - Version 49.0.0: displayReward/49.0.0.md
+      - Features: displayReward/Feature.md
       - Installation:
-          - Licensing : displayReward/Licence.md
+          - Licensing: displayReward/Licence.md
           - Configuration: displayReward/Configuration.md
           - Scenerios of Use: displayReward/senerioOfUse.md
-          - Help : displayReward/Help.md
+          - Help: displayReward/Help.md
 
   - Bundle Discount Plugin:
       - Overview: bundleDiscount/index.md
