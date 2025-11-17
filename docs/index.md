@@ -2,4 +2,4 @@
 
 - [Display Reward Point](displayReward/)
 
-- [Bundle Discount ](Introduxtion/)
+- [Bundle Discount ](Introduction/)
