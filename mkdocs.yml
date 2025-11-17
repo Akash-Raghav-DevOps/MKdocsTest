@@ -51,11 +51,11 @@ nav:
           - Help : displayReward/Help.md
 
   - Bundle Discount Plugin:
-      - Overview: Introduction/Introduction.md
+      - Overview: bundleDiscount/index.md
       - Version History: 
-          - Overview: Introduction/version-history.md
-          - Version 1.0.0: Introduction/1.0.0.md
-          - Version 1.0.1 : Introduction/1.0.1.md
-      - Features : Introduction/features.md
+          - Overview: bundleDiscount/version-history.md
+          - Version 1.0.0: bundleDiscount/1.0.0.md
+          - Version 1.0.1: bundleDiscount/1.0.1.md
+      - Features: bundleDiscount/features.md
       - Installation:
-          - Licensing : Introduction/getting-started.md
+          - Licensing: bundleDiscount/getting-started.md
