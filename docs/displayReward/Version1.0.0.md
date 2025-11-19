@@ -1,7 +1,3 @@
-# Display reward points Plugin for nopCommerce
-
----
-
 ## 1.0.0
 
 | **Release Date** | March 19, 2017 |
@@ -19,4 +15,4 @@
 4. Multi-store Supported.  
 
 ---
-[← Previous](History.md) | [Next →](1.0.1.md)
+[← Previous](49.0.0.md) | [Next →](1.0.1.md)
