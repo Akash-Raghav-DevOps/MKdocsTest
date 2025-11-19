@@ -4,7 +4,7 @@ This page contains version history information about plug-in. You can directly g
 
 [Version 49.0.0](49.0.0.md)
 
-[Version 1.0.0](Version1.0.0.md)
+[Version 1.0.0](1.0.0.md)
 
 [Version 1.0.1](1.0.1.md)
 
