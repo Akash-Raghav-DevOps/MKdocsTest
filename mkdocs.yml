@@ -93,6 +93,12 @@ nav:
         - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
         - Connect To Solr : NopAcceleratePlus/ConnectToSolr.md
         - TimeOut Expiration : NopAcceleratePlus/TimeOutExpiration.md
-        - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md.md
-        # - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
-        # - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
+        - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md
+        - Search with Synonyms : NopAcceleratePlus/SearchWithSynonyms.md
+        - Facet Filter with % : NopAcceleratePlus/FacetFilterWith%.md
+        - Solr as Service : NopAcceleratePlus/SolrService.md
+        - Licensing Issues : NopAcceleratePlus/LicensingIssues.md
+        - Responsive filter : NopAcceleratePlus/ResponsiveFilter.md
+        - Font Error : NopAcceleratePlus/FontError.md
+        - WebRequest: NopAcceleratePlus/WebRequest.md
+      - Help : NopAcceleratePlus/Help.md
