@@ -60,3 +60,12 @@ nav:
           - Version 1.0.1: bundleDiscount/1.0.1.md
       - Installation:
           - Licensing: bundleDiscount/getting-started.md
+
+  - NopAccelerate Plus:
+      - Overview: NopAcceleratePlus/index.md
+      - Support Document:
+        - Overview: NopAcceleratePlus/SupportDocOverview.md
+        - nopAccelerate Plus Pro Installation: NopAcceleratePlus/nopAcceleratePlusProInstallation.md
+        - JAVA Setup: NopAcceleratePlus/JAVASetup.md
+        - SOLR Setup:
+          - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
