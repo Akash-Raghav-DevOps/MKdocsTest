@@ -2,7 +2,7 @@
 
 ---
 
-## **Question 1 ** 
+## **Question 1** 
 **What will happen when the license expires?**
 
 ### **Solution**
@@ -61,7 +61,7 @@ If your key was valid once and approved, temporary failures will **not affect yo
 
 ---
 
-## **Question 3 ** 
+## **Question 3** 
 **How will I get notified about license issues?**
 
 ### **Solution**
