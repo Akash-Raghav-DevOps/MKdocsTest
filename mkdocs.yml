@@ -70,7 +70,6 @@ nav:
         - JAVA Setup: NopAcceleratePlus/JAVASetup.md
         - SOLR Setup:
           - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
-<<<<<<< HEAD
           - What is SOLR ?: NopAcceleratePlus/SOLR.md
           - How to Start/Stop/Restart SOLR ?: NopAcceleratePlus/StartSolr.md
           - Creating a new Core: NopAcceleratePlus/CreateCore.md
@@ -78,7 +77,6 @@ nav:
           - How to Reload Core: NopAcceleratePlus/ReloadCore.md
           - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
-=======
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
         # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
