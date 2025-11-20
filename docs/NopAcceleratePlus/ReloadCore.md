@@ -4,4 +4,4 @@ This can be useful when any changes have been made to your solrconfig.xml or sch
 
 ![Test1](../img/Reload_Core.png)
 
-[← Previous](ReloadCore.md) | [Next →](DeleteIndexData.md)
+[← Previous](DeleteCore.md) | [Next →](DeleteIndexData.md)

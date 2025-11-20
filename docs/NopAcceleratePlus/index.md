@@ -94,3 +94,4 @@ nopAccelerate Plus Pro brings powerful search technology that strengthens your e
 8. View More / View Less functionality for long facet lists.
 9. Default expanded or collapsed facet settings on page load.
 
+[Next →](SupportDocOverview.md)

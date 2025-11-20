@@ -57,4 +57,5 @@ Restart the SQL service so changes take effect.
 ![SQl](../img/restart.png)
 
 
+[← Previous](Technical%20FAQ's.md) | [Next →](SetupCoreOnSharedServer.md)
 

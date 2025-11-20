@@ -17,4 +17,4 @@ You can open the web interface of Solr to verify whether the core has been delet
 
 ![Test3](../img/Check_deleted.jpg)
 
-[← Previous](DeleteCore.md) | [Next →](ReloadCore.md)
+[← Previous](CreateCore.md) | [Next →](ReloadCore.md)

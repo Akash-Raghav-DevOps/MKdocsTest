@@ -39,4 +39,4 @@ So your Solr path becomes:
 Hence, Solr is downloaded and Java is set up.  
 Now let's [start Solr](StartSolr.md).
 
-[← Previous](SOLRSetup.md) | [Next →](SOLR.md)
+[← Previous](JAVASetup.md) | [Next →](SOLR.md)

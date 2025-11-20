@@ -26,4 +26,4 @@ c) You can stop Solr using command : **solr stop -p 8983**
 
 d) You can restart Solr using command : **solr restart -p 8983**
 
-[← Previous](StartSolr.md) | [Next →](CreateCore.md)
+[← Previous](SOLR.md) | [Next →](CreateCore.md)

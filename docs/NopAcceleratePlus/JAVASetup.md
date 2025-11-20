@@ -71,4 +71,4 @@ You will now see the newly added `JAVA_HOME` variable in the environment variabl
 
 You have successfully configured the Java environment variable.
 
-[← Previous](JAVASetup.md) | [Next →](SOLRSetup.md)
+[← Previous](nopAcceleratePlusProInstallation.md) | [Next →](SOLRSetup.md)

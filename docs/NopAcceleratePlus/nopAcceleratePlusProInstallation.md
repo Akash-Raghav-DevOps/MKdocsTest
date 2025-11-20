@@ -39,4 +39,4 @@ You can get guidance at:
 
 in this document to configure it manually.
 
-[← Previous](nopAcceleratePlusProInstallation.md) | [Next →](JAVASetup.md)
+[← Previous](SupportDocOverview.md) | [Next →](JAVASetup.md)

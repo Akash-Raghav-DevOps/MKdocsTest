@@ -24,4 +24,4 @@
 
 -[Start SOLR on system startup](StartSolronSystemStartup.md)
 
-[← Previous](#) | [Next →](nopAcceleratePlusProInstallation.md)
+[← Previous](index.md) | [Next →](nopAcceleratePlusProInstallation.md)

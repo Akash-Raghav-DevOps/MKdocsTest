@@ -18,5 +18,5 @@ To check the created core, you can look at **C:\Solr\server\solr\Solr_sample loc
 
 ![Test2](../img/core_selector.jpg)
 
-[← Previous](StartSolr.md) | [Next →](CreateCore.md)
+[← Previous](StartSolr.md) | [Next →](DeleteCore.md)
 
