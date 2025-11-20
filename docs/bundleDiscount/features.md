@@ -11,3 +11,5 @@
 - Position your bundles' list on the basis of selected widget zone.
 
 **Nopcommerce Supported Version(s):** 3.70, 3.80, 3.90 and 4.00.
+
+[← Previous](index.md) | [Next →](History.md)

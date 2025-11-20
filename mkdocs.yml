@@ -71,7 +71,7 @@ nav:
           - Version 1.4.0: bundleDiscount/1.4.0.md
 
       - Installation:
-          - Licensing: bundleDiscount/Licence.md
+          - Licensing: bundleDiscount/Licence.md  
           - Configuration: bundleDiscount/Configuration.md
           - Scenerios of Use: bundleDiscount/senerioOfUse.md
           - Help: bundleDiscount/Help.md
