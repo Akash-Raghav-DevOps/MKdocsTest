@@ -16,10 +16,4 @@ This page contains version history information about plug-in. You can directly g
 
 
 
-
-
-
-
-
-
 [← Previous](Feature.md) | [Next →](49.0.0.md)
