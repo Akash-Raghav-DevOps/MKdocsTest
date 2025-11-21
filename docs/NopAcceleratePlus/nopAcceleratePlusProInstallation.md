@@ -19,7 +19,7 @@ After successful installation, go to:
 ### 3. Add License Keys
 Enter the license keys provided to you via email.
 
-![Test](../img/PlusProConfigurepage.png)
+![Test](../assets/img/PlusProConfigurepage.png)
 ---
 
 ### 4. Getting Started Page

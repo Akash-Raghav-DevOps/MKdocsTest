@@ -1,6 +1,6 @@
 # nopAccelerate Plus Pro
 
-![Test](../img/plusprologo.png)
+![Test](../assets/img/plusprologo.png)
 
 nopAccelerate Plus Pro helps businesses across the nopCommerce ecosystem create highly relevant, scalable, and lightning-fast in-site search and product discovery experiences.
 
