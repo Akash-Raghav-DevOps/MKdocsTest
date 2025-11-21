@@ -72,12 +72,16 @@ nav:
 
       - Installation:
           - Licensing: bundleDiscount/Licence.md  
+          
       - Configuration:
             - Genral Tab Configuration: bundleDiscount/Configuration.md
-            - Bundle Configuration: 
-              - Manage Bundles:
-                  - Bundled Products: bundleDiscount/Configuration1.md
-                  - Add bundled products: bundleDiscount/Configuration2.md
+            - Bundle Product Configuration:
+              - Bundle Configuration: bundleDiscount/BundleConfiguration.md
+              - Manage Product Bundles:
+                  - Manage Bundles: bundleDiscount/ManageBundles.md
+                  - Bundled Products: bundleDiscount/BundledProducts.md
+                  - Add bundled products: bundleDiscount/Addbundledproducts.md
+      
       - Scenerios of Use: bundleDiscount/senerioOfUse.md
       - Help: bundleDiscount/Help.md
 
