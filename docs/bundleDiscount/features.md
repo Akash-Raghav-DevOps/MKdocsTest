@@ -12,4 +12,4 @@
 
 **Nopcommerce Supported Version(s):** 3.70, 3.80, 3.90 and 4.00.
 
-[← Previous](index.md) | [Next →](History.md)
+[← Previous](index.md) | [Next →](version-history.md)
