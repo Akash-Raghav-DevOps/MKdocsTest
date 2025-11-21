@@ -29,7 +29,7 @@ Use the appropriate command:
 - `SQLServerManager11.msc` → SQL Server 2012  
 - `SQLServerManager10.msc` → SQL Server 2008  
 
-![SQl](../img/sql.png)
+![SQl](../assets/img/sql.png)
 
 > **Note:** If SQL Configuration Manager is not found, verify your SQL Server installation.
 
@@ -37,7 +37,7 @@ Use the appropriate command:
 
 ### **3. Expand: _SQL Server Network Configuration_**
 
-![SQl](../img/serverconfiguration.png)
+![SQl](../assets/img/serverconfiguration.png)
 
 
 ---
@@ -46,7 +46,7 @@ Use the appropriate command:
 
 Right-click **TCP/IP** → select **Enable**.
 
-![SQl](../img/tcp.png)
+![SQl](../assets/img/tcp.png)
 
 ---
 
