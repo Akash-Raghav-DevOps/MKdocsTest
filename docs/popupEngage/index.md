@@ -12,3 +12,5 @@ The Pop-up Engage plugin triggers based on *exit intent*. When a customer adds a
   The pop-up skips the subscription step and directly shows the selected topic page content.
 
 Additionally, the plugin includes another pop-up that appears on the home page whenever a customer visits the site.
+
+[Next →](Feature.md)

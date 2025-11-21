@@ -71,6 +71,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#plugin-configuration-guide" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -3183,6 +3188,19 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Configuration
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -3194,6 +3212,68 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#plugin-configuration-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      Plugin Configuration Guide
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-enable-the-plugin" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Enable the Plugin
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-home-page-popup-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Home Page Popup Settings
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-abandoned-cart-popup-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Abandoned Cart Popup Settings
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-saving-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Saving Settings
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -3279,7 +3359,75 @@
 
   <h1>Configuration</h1>
 
-
+<h3 id="plugin-configuration-guide">Plugin Configuration Guide</h3>
+<hr />
+<h2 id="1-enable-the-plugin">1. Enable the Plugin</h2>
+<p>Before using any feature, make sure the plugin is enabled.<br />
+The popup functionalities will not work unless the plugin is turned on.</p>
+<hr />
+<h2 id="2-home-page-popup-settings">2. Home Page Popup Settings</h2>
+<p>These settings control the popup that appears when a customer visits the homepage.</p>
+<ul>
+<li>
+<p><strong>Home Page Popup Enabled :</strong> Enable this option to display a popup on the homepage.</p>
+</li>
+<li>
+<p><strong>Topic :</strong>  Select a topic from the dropdown.  </p>
+</li>
+<li>
+<p>The selected topic’s content will appear inside the popup.</p>
+</li>
+<li>
+<p><strong>Title :</strong> Enter the title text you want to show on the popup.</p>
+</li>
+<li>
+<p><strong>Cookie Duration Minutes:</strong>  Define how long (in minutes) the popup should remain suppressed after it is shown.</p>
+</li>
+<li>
+<p><strong>Examples:</strong> </p>
+</li>
+<li><code>0</code> → shows every time  </li>
+<li><code>1440</code> → once per day  </li>
+<li>
+<p><code>43200</code> → once per month  </p>
+</li>
+<li>
+<p><strong>Behavior</strong></p>
+</li>
+<li>Displays the popup using the configured topic and title.</li>
+<li>Works for both logged-in and guest users.</li>
+</ul>
+<hr />
+<h2 id="3-abandoned-cart-popup-settings">3. Abandoned Cart Popup Settings</h2>
+<p>These settings control the popup shown when a user is about to leave the website with items in the cart (exit-intent popup).</p>
+<ul>
+<li>
+<p><strong>Abandoned Cart Popup Enabled :</strong>  Enable this option to activate the exit-intent popup for abandoned carts.</p>
+</li>
+<li>
+<p><strong>Topic :</strong> Choose a topic whose content will appear inside the popup.</p>
+</li>
+<li>
+<p><strong>Title :</strong> Enter a title for the abandoned cart popup.</p>
+</li>
+<li>
+<p><strong>Suppression Minutes :</strong> Set how long the popup should stay suppressed once it has appeared.  </p>
+</li>
+<li>
+<p>This prevents it from showing repeatedly in a short time.</p>
+</li>
+<li>
+<p><strong>Behavior</strong></p>
+</li>
+<li>Detects when a user is about to leave the store while having items in the cart.</li>
+<li><strong>If the visitor is not logged in:</strong> The popup shows the topic content along with an email subscription option.</li>
+<li><strong>If the visitor is logged in:</strong>   Only the topic content is displayed.</li>
+</ul>
+<hr />
+<h2 id="4-saving-settings">4. Saving Settings</h2>
+<p>After adjusting all configurations, click <strong>Save</strong> to apply your changes.</p>
+<p><img alt="confgiure1" src="../../assets/img/popup_configure1.png" />
+<img alt="confgiure2" src="../../assets/img/popup_configure.png" /></p>
 
 
 
