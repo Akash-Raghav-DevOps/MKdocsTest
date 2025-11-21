@@ -1,6 +1,6 @@
-### Pop-up Engage Plugin Installation Guide
+# Installation & Licensing
 
-- Download the plugin package and place it inside your `/Plugins` folder.
+- Download the plugin package and place it inside your **Plugins** folder.
 
 - Follow the standard nopCommerce plugin installation procedure. The **Pop-up Engage** plugin will appear under the **“Xcellence-IT”** group on the **Local Plugins** page.
 
@@ -12,3 +12,5 @@
 
 
 ![Lincence](../assets/img/popup_lincence.png)
+
+[← Previous](1.0.0.md) | [Next →](Configuration.md)

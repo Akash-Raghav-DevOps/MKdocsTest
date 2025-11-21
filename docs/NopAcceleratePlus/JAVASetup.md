@@ -61,7 +61,7 @@ Do one of the following:
   Add your Java installation path, for example:  
   `C:\Program Files\Java\jre1.8.0_201`
 
-![Test4](../iassets/mg/JDK_Path.png)
+![Test4](../assets/img/JDK_Path.png)
 ---
 
 Click **OK**.  
