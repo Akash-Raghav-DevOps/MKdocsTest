@@ -6,7 +6,7 @@ When you open product edit page, you'll see **Manage Bundles** tab as shown belo
 
 When you click on the tab, you'll be displayed a page where you can manage your bundles.
 
-[Manage Bundles](Manage Bundles)
+[Manage Bundles](ManageBundles.md)
 
 If you cannot view **Manage bundles** tab on Product Edit page, please check if the product agrees to any one of the following conditions:
 
