@@ -7,3 +7,5 @@
 - [Nop Accelerate Plus ](NopAcceleratePlus/)
 
 - [Popup Engage ](popupEngage/)
+
+- [Auto Guest Register ](AutoGuestRegister/)
