@@ -1,4 +1,4 @@
-![popupLogo](../assets/popupLogo.png)
+![popupLogo](../assets/img/popupLogo.png)
 
 **Pop-up Engage Plugin Overview**
 
