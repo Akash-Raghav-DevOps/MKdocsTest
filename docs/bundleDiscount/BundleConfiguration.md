@@ -15,3 +15,5 @@ If you cannot view **Manage bundles** tab on Product Edit page, please check if 
 - Customer Enters Price is enabled for the product.
 
 If none of the above conditions apply to your product, you can get help from our team. Please refer [How to get help.](How to get help.)
+
+[← Previous](Configuration.md) | [Next →](ManageBundles.md)

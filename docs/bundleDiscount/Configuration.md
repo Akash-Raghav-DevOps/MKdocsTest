@@ -10,4 +10,4 @@ You can choose to delete bundle related data from the database when you un-insta
 ![Test](../assets/img/BundleDiscount_Configuration.png)
 
 
-[← Previous](Licence.md) | [Next →](senerioOfUse.md)
+[← Previous](Licence.md) | [Next →](BundleConfiguration.md)
