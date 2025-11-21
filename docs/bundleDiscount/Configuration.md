@@ -13,6 +13,8 @@ You can choose to delete bundle related data from the database when you un-insta
 
 When you open product edit page, you'll see **Manage Bundles** tab as shown below.
 
+![Test](../assets/img/BundleDiscount_bundle.png)
+
 When you click on the tab, you'll be displayed a page where you can manage your bundles.
 
 [Manage Bundles](Manage Bundles)
@@ -29,6 +31,8 @@ If none of the above conditions apply to your product, you can get help from our
 
 As you see in below image you can add multiple bundles for a base product.
 
+![Test](../assets/img/BundleDiscount_ManageBundle.png)
+
 - **Name** defines bundle name.  
 - **Discount Amount** defines the amount of discount to be applied on a bundle.  
 - **Use Percentage** defines if the discount amount is in percentage or not.  
@@ -44,9 +48,9 @@ You can configure bundle products by clicking on the link that says Reference Pr
 ## Bundled Products
 
 You can view the list of products added to the bundle here.  
-Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice.
+Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice.Base product will be displayed first and the remaining products — as per the display order.
 
-Base product will be displayed first and the remaining products — as per the display order.
+![Test](../assets/img/BundleDiscount_bundledProduct.png)
 
 You can add multiple product to the product list by clicking on the **Add product** button.
 
@@ -55,6 +59,8 @@ You can add multiple product to the product list by clicking on the **Add produc
 ## Add bundled products
 
 You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
+
+![Test](../assets/img/BundleDiscount_Addbundledproducts.png)
 
 You can filter the products by the fields provided above the list.
 
