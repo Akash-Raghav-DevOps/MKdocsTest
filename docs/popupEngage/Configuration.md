@@ -1,14 +1,11 @@
-### Plugin Configuration Guide
+
+## 1. **Enable the Plugin**
+- Before using any feature, make sure the plugin is enabled.  
+- The popup functionalities will not work unless the plugin is turned on.
 
 ---
 
-## 1. Enable the Plugin
-Before using any feature, make sure the plugin is enabled.  
-The popup functionalities will not work unless the plugin is turned on.
-
----
-
-## 2. Home Page Popup Settings
+## 2. **Home Page Popup Settings**
 These settings control the popup that appears when a customer visits the homepage.
 
 - **Home Page Popup Enabled :** Enable this option to display a popup on the homepage.
@@ -31,7 +28,7 @@ These settings control the popup that appears when a customer visits the homepag
 
 ---
 
-## 3. Abandoned Cart Popup Settings
+## 3. **Abandoned Cart Popup Settings**
 These settings control the popup shown when a user is about to leave the website with items in the cart (exit-intent popup).
 
 - **Abandoned Cart Popup Enabled :**  Enable this option to activate the exit-intent popup for abandoned carts.
@@ -49,9 +46,11 @@ These settings control the popup shown when a user is about to leave the website
 - **If the visitor is logged in:**   Only the topic content is displayed.
 ---
 
-## 4. Saving Settings
+## 4. **Saving Settings**
 After adjusting all configurations, click **Save** to apply your changes.
 
 
 ![confgiure1](../assets/img/popup_configure1.png)
 ![confgiure2](../assets/img/popup_configure.png)
+
+[← Previous](Licence.md) | [Next →](senerioOfUse.md)
