@@ -72,9 +72,14 @@ nav:
 
       - Installation:
           - Licensing: bundleDiscount/Licence.md  
-          - Configuration: bundleDiscount/Configuration.md
-          - Scenerios of Use: bundleDiscount/senerioOfUse.md
-          - Help: bundleDiscount/Help.md
+      - Configuration:
+            - Genral Tab Configuration: bundleDiscount/Configuration.md
+            - Bundle Configuration: 
+              - Manage Bundles:
+                  - Bundled Products: bundleDiscount/Configuration1.md
+                  - Add bundled products: bundleDiscount/Configuration2.md
+      - Scenerios of Use: bundleDiscount/senerioOfUse.md
+      - Help: bundleDiscount/Help.md
 
   - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
