@@ -9,4 +9,4 @@ Store owner can add discount for bundles and link additional products to base pr
 
 Customer can view bundle offers on product details page of the base product. Customer can directly add to cart bundle products from product detail page and if some bundle products have attributes then plug-in will show pop-up window for attribute configuration.
 
-[Next →](Feature.md)
+[Next →](features.md)

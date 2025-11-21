@@ -14,6 +14,7 @@ You can view the discounts applied on the cart as well as on order summary pages
 If you cannot view your bundles on product details page, please check if your bundle has products added to it, your bundle is in active state and also the widget for Bundled Discounts plug-in is enabled as shown below:
 
 If you still cannot view your bundles list on product details page, you can get help from our team. Please refer 
+
 ## How to get help.
 
 [← Previous](Configuration.md) | [Next →](Help.md)
