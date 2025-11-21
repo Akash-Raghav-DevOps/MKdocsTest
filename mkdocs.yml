@@ -3,7 +3,7 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: white
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/weather-night
@@ -57,20 +57,18 @@ nav:
       - Features: bundleDiscount/features.md
       - Version History: 
           - Overview: bundleDiscount/version-history.md
-          - Version 49.0.0: bundleDiscount/49.0.0.md
-          - Version 1.4.0: bundleDiscount/1.4.0.md
-          - Version 1.3.3: bundleDiscount/1.3.3.md
-          - Version 1.3.2: bundleDiscount/1.3.2.md
-          - Version 1.3.1: bundleDiscount/1.3.1.md
-          - Version 1.3.0: bundleDiscount/1.3.0.md
-          - Version 1.2.2: bundleDiscount/1.2.2.md
-          - Version 1.2.1: bundleDiscount/1.2.1.md
+          - Version 1.0.0: bundleDiscount/1.0.0.md
+          - Version 1.0.1: bundleDiscount/1.0.1.md
+          - Version 1.1.0: bundleDiscount/1.1.0.md
           - Version 1.2.0: bundleDiscount/1.2.0.md
           - Version 1.1.3: bundleDiscount/1.1.3.md
-          - Version 1.1.0: bundleDiscount/1.1.0.md
-          - Version 1.0.1: bundleDiscount/1.0.1.md
-          - Version 1.0.0: bundleDiscount/1.0.0.md
-
+          - Version 1.2.1: bundleDiscount/1.2.1.md
+          - Version 1.2.2: bundleDiscount/1.2.2.md
+          - Version 1.3.0: bundleDiscount/1.3.0.md
+          - Version 1.3.1: bundleDiscount/1.3.1.md
+          - Version 1.3.2: bundleDiscount/1.3.2.md
+          - Version 1.3.3: bundleDiscount/1.3.3.md
+          - Version 1.4.0: bundleDiscount/1.4.0.md
 
       - Installation:
           - Licensing: bundleDiscount/Licence.md  
@@ -139,7 +137,30 @@ nav:
           - Version 1.0.1: popupEngage/1.0.1.md
           - Version 1.0.0: popupEngage/1.0.0.md          
       - Installation:
-          - Licensing: popupEngage/Licence.md
+          - Licensing: popupEngage/Lincencing.md
           - Configuration: popupEngage/Configuration.md
           - Scenerios of Use: popupEngage/senerioOfUse.md
           - Help: popupEngage/Help.md
+
+  - Auto Guest Register :
+      - Overview: AutoGuestRegister/index.md
+      - Features: AutoGuestRegister/Features.md
+      - Version History:
+        - Overview: AutoGuestRegister/History.md
+        - 49.0.0: AutoGuestRegister/49.0.0.md
+        - 1.4.0: AutoGuestRegister/1.4.0.md
+        - 1.3.0: AutoGuestRegister/1.3.0.md
+        - 1.2.0: AutoGuestRegister/1.2.0.md
+        - 1.1.0: AutoGuestRegister/1.1.0.md
+        - 1.0.0: AutoGuestRegister/1.0.0.md
+      - Installation:
+          - Licensing: AutoGuestRegister/Licence.md  
+          - Configuration:
+            - General Tab Configuration: AutoGuestRegister/GeneralTabConfiguration.md
+            - Email Configuration: AutoGuestRegister/EmailConfiguration.md
+          - Scenerios of Use:
+              - Guest Customer Register: AutoGuestRegister/GuestCustomerRegister.md
+              - Order Edit Page: AutoGuestRegister/OrderEditPage.md
+              - Notify with Email: AutoGuestRegister/NotifywithEmail.md
+              - Edit Message Template: AutoGuestRegister/EditMessageTemplate.md
+          - How to get Help: AutoGuestRegister/Howtogethelp.md
