@@ -14,6 +14,7 @@ If you cannot view **Manage bundles** tab on Product Edit page, please check if 
 - It is a gift card.  
 - Customer Enters Price is enabled for the product.
 
-If none of the above conditions apply to your product, you can get help from our team. Please refer [How to get help.](How to get help.)
+If none of the above conditions apply to your product, you can get help from our team. Please refer 
+[How to get help.](Help.md)
 
 [← Previous](Configuration.md) | [Next →](ManageBundles.md)

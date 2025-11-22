@@ -84,7 +84,11 @@ nav:
                   - Bundled Products: bundleDiscount/BundledProducts.md
                   - Add bundled products: bundleDiscount/Addbundledproducts.md
       
-      - Scenerios of Use: bundleDiscount/senerioOfUse.md
+      - Scenerios of Use: 
+        - Display Bundle List: bundleDiscount/senerioOfUse.md
+        - Attribute Pop-up: bundleDiscount/AttributePopup.md
+        - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
+    
       - Help: bundleDiscount/Help.md
 
   - NopAccelerate Plus:
