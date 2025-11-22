@@ -96,6 +96,7 @@ nav:
         - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
     
       - Help: bundleDiscount/Help.md
+      - Bundled Discount RealOnePageCheckout Compatibility: bundleDiscount/BundleDiscountnoptemplate.md
 
   - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md

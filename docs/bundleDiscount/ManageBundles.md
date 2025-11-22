@@ -14,4 +14,4 @@ As you see in below image you can add multiple bundles for a base product.
 
 You can configure bundle products by clicking on the link that says Reference Products for a bundle.
 
-[Bundled Products list](Bundled Products list)
+[Bundled Products list](BundledProducts.md)

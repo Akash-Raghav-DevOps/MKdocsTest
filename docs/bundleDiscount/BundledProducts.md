@@ -7,4 +7,4 @@ Display Order defines the sequence in which the products will be displayed insid
 
 You can add multiple product to the product list by clicking on the **Add product** button.
 
-[Add Product](Add Product)
+[Add Product](Addbundledproducts.md)
