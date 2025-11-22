@@ -15,4 +15,6 @@ If you cannot view your product in the list, please check if the product agrees 
 - Customer Enters Price is enabled for the product.  
 - If you are logged in as vendor, the product you are searching for is not your product.
 
-If none of the above conditions apply to your product, you can get help from our team. Please refer [How to get help.](How to get help.)
+If none of the above conditions apply to your product, you can get help from our team. Please refer [How to get help.](Help.md)
+
+[← Previous](BundledProducts.md) | [Next →](senerioOfUse.md)

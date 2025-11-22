@@ -10,3 +10,5 @@ The discount applied on your order from the selected bundles will be shown on ca
 
 # Order Details Page after placing order 
 ![Order Details](../assets/img/BundleDiscount_OrderDetailSummery.png)
+
+[← Previous](AttributePopup.md) | [Next →](Help.md)

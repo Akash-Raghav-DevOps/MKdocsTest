@@ -21,4 +21,4 @@ If you still cannot view your bundles list on product details page, you can get 
 
 [How to get help](Help.md)
 
-[← Previous](Configuration.md) | [Next →](Help.md)
+[← Previous](Addbundledproducts.md) | [Next →](AttributePopup.md)
