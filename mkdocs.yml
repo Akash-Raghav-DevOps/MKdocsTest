@@ -186,3 +186,31 @@ nav:
               - Notify with Email: AutoGuestRegister/NotifywithEmail.md
               - Edit Message Template: AutoGuestRegister/EditMessageTemplate.md
           - How to get Help: AutoGuestRegister/Howtogethelp.md
+
+  - Universal ZipCode :
+      - Overview: UniversalZipCode/index.md
+      - Features: UniversalZipCode/Features.md
+      - Version History: 
+          - Overview: UniversalZipCode/History.md
+          - Version 49.0.0: UniversalZipCode/49.0.0.md
+          - Version 6.0.1: UniversalZipCode/6.0.1.md         
+          - Version 1.4.0: UniversalZipCode/1.4.0.md 
+          - Version 1.3.0: UniversalZipCode/1.3.0.md         
+          - Version 1.2.0: UniversalZipCode/1.2.0.md         
+          - Version 1.1.1: UniversalZipCode/1.1.1.md          
+          - Version 1.1.0: UniversalZipCode/1.1.0.md          
+          - Version 1.0.1: UniversalZipCode/1.0.1.md
+          - Version 1.0.0: UniversalZipCode/1.0.0.md
+          
+      - Installation:
+          - Licensing: UniversalZipCode/Licence.md
+          - Configuration:
+            - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
+            - Zipcode List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
+            - Zipcode Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
+          - Scenerios of Use:
+            - Auto ask ZipCode on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
+            - Ask ZipCode on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
+            - Ask ZipCode on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
+            - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
+          - Help: UniversalZipCode/Help.md
