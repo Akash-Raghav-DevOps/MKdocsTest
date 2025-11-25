@@ -31,7 +31,7 @@ plugins:
   - search
   - awesome-pages
 extra:
-  footer: © 2025 NopAccelerate • Built with ❤️ by NopAccelerate Team
+  footer: © 2025 NopAccelerate • Built with❤️ by NopAccelerate Team
 nav:
   - Home: index.md
   - Display Reward Plugin:
@@ -258,5 +258,23 @@ nav:
         - Send Individual message: UniversalSMS/sendIndividualMessage.md
 
       - How to get help: UniversalSMS/help.md
-
-
+      
+  - Product Ribbons:
+    - Overview: ProductRibbons/index.md
+    - Features: ProductRibbons/Features.md
+    - Version History:
+      - Overview: ProductRibbons/History.md
+      - Version 49.0.0: ProductRibbons/49.0.0.md
+      - Version 1.0.0: ProductRibbons/1.0.0.md
+    - Installation:
+      - Licensing: ProductRibbons/Licence.md  
+      - Configuration:
+          - General Settings: ProductRibbons/GeneralSettings.md
+          - Manage Product Ribbons Configurations:
+            - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
+            - Add New Ribbon: ProductRibbons/AddNewRibbon.md
+            - Add product picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
+            - Add Products Tab: ProductRibbons/AddProductsTab.md
+          - Scenerios of Use:
+              - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
+          - How to get Help: ProductRibbons/Howtogethelp.md
