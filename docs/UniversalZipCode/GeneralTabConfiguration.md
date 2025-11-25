@@ -20,4 +20,5 @@ Configure the plug-in from the **General** tab as shown below.
 
 ![zipcode_generalConfiguration](../assets/img/zipcode_genraltab.png)
 
+
 [← Previous](Licence.md) | [Next →](ZipCodeListTabConfiguration.md)
