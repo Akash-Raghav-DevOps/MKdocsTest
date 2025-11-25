@@ -11,3 +11,5 @@
 - [Auto Guest Register ](AutoGuestRegister/)
 
 - [Universal ZipCode ](UniversalZipCode/)
+
+- [Universal SMS ](UniversalSMS/)

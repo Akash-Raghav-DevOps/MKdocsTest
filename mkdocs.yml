@@ -214,3 +214,6 @@ nav:
             - Ask ZipCode on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
             - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
           - Help: UniversalZipCode/Help.md
+          
+  - Universal SMS :
+      - Overview: UniversalSMS/index.md
