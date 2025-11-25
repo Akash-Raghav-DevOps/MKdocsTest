@@ -245,17 +245,17 @@ nav:
         - Installation & Licensing: UniversalSMS/installation.md
 
       - Configuration:
-        - General Tab: UniversalSMS/config/generalTab.md
-        - Interface Setting Tab: UniversalSMS/config/interfaceSettingTab.md
-        - Customer Event Settings Tab: UniversalSMS/config/customerEventSettingsTab.md
-        - Admin Event Setting Tab: UniversalSMS/config/adminEventSettingTab.md
-        - Vendor Event Setting Tab: UniversalSMS/config/vendorEventSettingTab.md
-        - Send Test Message Tab: UniversalSMS/config/sendTestMessageTab.md
+        - General Tab: UniversalSMS/generalTab.md
+        - Interface Setting Tab: UniversalSMS/interfaceSettingTab.md
+        - Customer Event Settings Tab: UniversalSMS/customerEventSettingsTab.md
+        - Admin Event Setting Tab: UniversalSMS/adminEventSettingTab.md
+        - Vendor Event Setting Tab: UniversalSMS/vendorEventSettingTab.md
+        - Send Test Message Tab: UniversalSMS/sendTestMessageTab.md
 
       - Scenarios of use:
-        - General Use: UniversalSMS/scenarios/generalUse.md
-        - Developer Use: UniversalSMS/scenarios/developerUse.md
-        - Send Individual message: UniversalSMS/scenarios/sendIndividualMessage.md
+        - General Use: UniversalSMS/generalUse.md
+        - Developer Use: UniversalSMS/developerUse.md
+        - Send Individual message: UniversalSMS/sendIndividualMessage.md
 
       - How to get help: UniversalSMS/help.md
 
