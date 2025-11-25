@@ -246,7 +246,10 @@ nav:
 
       - Configuration:
         - General Tab: UniversalSMS/generalTab.md
-        - Interface Setting Tab: UniversalSMS/interfaceSettingTab.md
+        - Interface Setting Tab:
+          - Overview: UniversalSMS/interfaceSettingTab.md
+          - SMS Http API: UniversalSMS/smsHttpApi.md
+          - Twilio SMS API: UniversalSMS/twilioSmsApi.md
         - Customer Event Settings Tab: UniversalSMS/customerEventSettingsTab.md
         - Admin Event Setting Tab: UniversalSMS/adminEventSettingTab.md
         - Vendor Event Setting Tab: UniversalSMS/vendorEventSettingTab.md
