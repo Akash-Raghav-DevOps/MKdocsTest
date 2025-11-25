@@ -14,6 +14,7 @@ Configure the plug-in from the **General** tab as shown below.
 - **Disable payment method if COD is not available :** 
   Select which payment method should be disabled when COD is unavailable using this setting.
 
+
 - **Select WidgetZone for Product :**
   Select widgetzone for display zipcode check on prodcut page  
 
