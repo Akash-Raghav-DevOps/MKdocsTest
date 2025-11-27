@@ -88,7 +88,7 @@ nav:
           - Licensing: bundleDiscount/Licence.md  
           
       - Configuration:
-            - Genral Tab Configuration: bundleDiscount/Configuration.md
+            - General Tab Configuration: bundleDiscount/Configuration.md
             - Bundle Product Configuration:
               - Bundle Configuration: bundleDiscount/BundleConfiguration.md
               - Manage Product Bundles:
