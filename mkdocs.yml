@@ -27,11 +27,17 @@ theme:
     - navigation.path
     - navigation.breadcrumbs
     - header.autohide
+
 plugins:
   - search
   - awesome-pages
+
 extra:
   footer: © 2025 NopAccelerate • Built with❤️ by NopAccelerate Team
+
+extra_css:
+  - styles/hide-tabs.css
+
 nav:
   - Home: index.md
   - Display Reward Plugin:
