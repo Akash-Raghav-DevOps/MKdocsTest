@@ -26,3 +26,5 @@ For further customization in view page, you can find **"RegistrationVerification
 If you want to verify OTP then you can click on verify OTP it will again redirect to RegistrationVerification page.
 
 ![CustomerEvent](../assets/img/SMS_VerifyOtpVerification.png)
+
+[← Previous](sendTestMessageTab.md) | [Next →](developerUse.md)

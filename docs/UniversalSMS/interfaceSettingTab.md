@@ -6,3 +6,5 @@ You can configure have different SMS providers per country as per your requireme
 
 [SMS Http API](smsHttpApi.md)  
 [Twilio SMS API](twilioSmsApi.md)
+
+[← Previous](generalTab.md) | [Next →](smsHttpApi.md)

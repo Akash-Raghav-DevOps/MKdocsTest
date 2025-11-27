@@ -8,3 +8,5 @@
 
 
 ![Individualmessage](../assets/img/SMS_IndividualMessage.png)
+
+[← Previous](developerUse.md) | [Next →](help.md)

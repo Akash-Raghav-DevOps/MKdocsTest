@@ -8,3 +8,5 @@ You can send message using this tab.
 - **Message Text:** Enter message text.  
 
 ![SendTestMessage](../assets/img/SMS_SendTest.png)
+
+[← Previous](vendorEventSettingTab.md) | [Next →](generalUse.md)

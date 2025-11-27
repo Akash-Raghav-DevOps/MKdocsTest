@@ -9,3 +9,4 @@ You cannot use plug-in functionality unless you enable it.
 
 ![Genral Tab](../assets/img/SMS_GenralTab.png)
 
+[← Previous](installation.md) | [Next →](interfaceSettingTab.md)
