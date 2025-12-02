@@ -20,3 +20,5 @@ In other words, a CDN is simply a network of servers around the globe. A CDN’s
 - Higher availability  
 - Decreased server load  
 - Reduced bandwidth usage  
+
+[Next →](Feature.md)

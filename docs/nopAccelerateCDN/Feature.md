@@ -13,3 +13,5 @@
 ---
 
 **This CDN plugin enables you to host images on a CDN with ease.By offloading some of the stress from your web server and using a high-performance content delivery network, it can significantly improve page load time.**
+
+[← Previous](index.md) | [Next →](History.md)

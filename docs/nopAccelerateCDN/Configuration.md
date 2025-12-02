@@ -21,5 +21,6 @@ You need to configure plug-in in general tab as shown in the below figure.
 
 **Disable CDN on SSL Pages:** If your CDN provider does not support HTTPS (SSL), check this box. This ensures that when a user visits a secure page (like Checkout or Login), the assets are loaded from your secure server instead of the non-secure CDN to prevent "Mixed Content" security warnings in the browser.
  
-
 ![confgiure](../assets/img/CDN_GenralConfiguration.png)
+
+[← Previous](License.md) 

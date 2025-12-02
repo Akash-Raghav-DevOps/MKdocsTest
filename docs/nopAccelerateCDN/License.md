@@ -11,5 +11,5 @@ It will ask you to enter your license key as shown in figure below, enter licens
 
 ![License](../assets/img/Cdn_License.png)
 
-[← Previous](49.0.0.md) | [Next →]()
+[← Previous](49.0.0.md) | [Next →](Configuration.md)
 
